@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6F124F7B-44F0-4487-97E8-1F3704C2FE87}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StaticShock/Views/PokePage.xaml">
+    <Files>
+      <File FileName="StaticShock/ViewModels/PokeViewModel.cs" Line="46" Column="1" />
+      <File FileName="StaticShock/Services/PokeApi.cs" Line="18" Column="8" />
+      <File FileName="StaticShock/Views/PokePage.xaml" Line="11" Column="41" />
+      <File FileName="StaticShock/Models/PokeInfo.cs" Line="62" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StaticShock.Android PreferredExecutionTarget="Android.Nexus_5X_API_26_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/budnieswski/Projects/StaticShock/StaticShock/Views/MainPage.xaml" relfile="StaticShock/Views/MainPage.xaml" line="8" column="1" />
+      <Breakpoint file="/Users/budnieswski/Projects/StaticShock/StaticShock/ViewModels/PokeViewModel.cs" relfile="StaticShock/ViewModels/PokeViewModel.cs" line="46" column="24" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StaticShock.iOS FirstBuild="True" />
+</Properties>

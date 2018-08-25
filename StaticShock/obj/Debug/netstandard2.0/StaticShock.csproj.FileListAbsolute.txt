@@ -1,0 +1,12 @@
+/Users/budnieswski/Projects/StaticShock/StaticShock/bin/Debug/netstandard2.0/StaticShock.deps.json
+/Users/budnieswski/Projects/StaticShock/StaticShock/bin/Debug/netstandard2.0/StaticShock.dll
+/Users/budnieswski/Projects/StaticShock/StaticShock/bin/Debug/netstandard2.0/StaticShock.pdb
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/Views/PokePage.xaml.g.cs
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/StaticShock.csproj.CoreCompileInputs.cache
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/StaticShock.AssemblyInfoInputs.cache
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/StaticShock.AssemblyInfo.cs
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/StaticShock.dll
+/Users/budnieswski/Projects/StaticShock/StaticShock/obj/Debug/netstandard2.0/StaticShock.pdb
